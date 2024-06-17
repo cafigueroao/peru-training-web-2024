@@ -1,35 +1,32 @@
 ---
-title: Home
-layout: home
+layout: page
+title: Agenda General
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# AGENDA DE CAPACITACIÓN MODELACIÓN HIDROLÓGICA PARA ROBUSTECER LA TOMA DECISIONES EN LA STCRHC DE TUMBES
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Este documento describe la estrategia y contenido programático que se desarrollará en las jornadas de capacitación virtual y presencial enfocadas en el manejo de la plataforma de gestión y modelación del agua WEAP, así como los insumos para su uso por parte del personal de la Secretaría Técnico de Consejo de Recursos Hídricos de la cuenca Tumbes (STCRHCT).  
 
-More specifically, the created site:
+El contenido y estructura de la capacitación ha sido diseñado para proporcionar una secuencia de introducción, configuración y manejo de WEAP desde un nivel básico hasta un manejo intermedio en complejidad que permita representar la oferta hídrica, así como la demanda (usos) de diferentes sectores (e.g. poblaciones, agrícola, ganadería, hidroeléctricas, etc.). Der esta forma y con base en la experiencia y material en línea que ha desarrollado el Stockholm Environment Institute (SEI) para ser eficientes en los recursos disponibles para el proyecto de forma de enfocar los mismos en aspectos estratégicos para el manejo de WEAP por parte de la STCHRCT con enfoque situaciones que se presenten en la cuenca y la herramienta sea un elemento robusto para fortalecer tanto la evaluación de la dinámica del agua como su gestión. Con esto en mente, la capacitación ha sido dividido en dos etapas, una primera etapa de desarrollo de en modo virtual y otra en modo presencial.  
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Contenido
+El desarrollo de la capacitación en WEAP, será entre la primera y segunda semana de julio 2024. La primera semana en modalidad virtual consistente en dos sesiones a ser desarrolladas el martes 2 y jueves 4 de julio, con una duración estimada de 3 horas cada una. La segunda semana se llevará a cabo en modalidad presencial, y se desarrollará los días 8, 9 y 10 de julio 2024, en las oficinas de la STCRHCT o salón que esta disponga para el trabajo presencial. 
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Sesiones Virtuales
+Los participantes deben asistir con una laptop o computador personal que cuente con sistema operativo Windows, el cual tenga instalado mínimamente Microsoft Office, y también una capacidad en memoria operativa RAM no inferior a los 4 GB. Se debe contar con conexión a internet para el manejo de funcionalidades en línea que WEAP actualmente utiliza en el desarrollo de la esquemática y manejo de fuentes de data en repositorios en línea para climatología, topografía y uso de suelo. 
+<span style="color:red">Para manejo de la dinámica de presentación y guía de pasos a seguir en las dos sesiones, recomienda contar con dos pantallas, una para ejecutar WEAP y otras aplicaciones Windows y la otra para mantener la ventana TEAMS compartida por el encargado de la capacitación de SEI.</span>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Martes 2 de julio
 
-To get started with creating a site, simply:
+| Hora | Duración | Contenido | Encargado |
+|:---:|:---:|:---:|:---:|
+| 09:00 | 1 hr | Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis | David Zamora SEI |
+| 10:00 | 0.5 hr | Instalación, licencia y componentes de WEAP | Gustavo Ayala SEI |
+| 10:30 | Break de 15 minutos | | |
+| 10:45 | 0.5 hr | Conceptos básicos de una esquemática en WEAP [Elementos] | Albeiro Figueroa SEI |
+| 11:15 | 0.75 hr | Conceptos básicos del manejo de la data en WEAP [Nodos, Líneas] | Gustavo Ayala SEI |
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+**Notas:**
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+* SEI: Sistema de Evaluación Ambiental
