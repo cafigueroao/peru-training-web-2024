@@ -1,11 +1,21 @@
 title: Work Plan for Strengthening Capacities in the Management of WEAP
 description: Training Workshop Content Page (Tumbes, Perú - 2024)
+
+# theme:
 theme: just-the-docs
 logo: "https://www.sei.org/wp-content/themes/sei/assets/src/sprite-images/logo.svg"
 
-url: https://just-the-docs.github.io
+url: https://cafigueroao.github.io
 
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://cafigueroao.github.io/peru-training-web-2024
   "SEI - Stockholm Environment Institute":
     - "//www.sei.org/centres/latinoamerica/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
+footer_content: "Copyright &copy; 2024 SEI / Water Group. Distributed by an <a href=\"https://github.com/cafigueroao/peru-training-web-2024/blob/main/LICENSE\">EPL 2.0 license.</a>"
