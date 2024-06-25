@@ -38,10 +38,10 @@ nav_order: 2
       background-size: 900px 100%;
     }
     .background-img {
-      background-image: url('https://i.imgur.com/s08MkXC.jpg');
+      background-image: url('../images/NotaColabNo1.png');
     }
     .foreground-img {
-      background-image: url('https://i.imgur.com/PfIWek4.jpg');
+      background-image: url('../images/NotaColabNo1.png');
       width: 50%;
     }
     
