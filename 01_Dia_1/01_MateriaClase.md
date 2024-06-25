@@ -8,13 +8,16 @@ nav_order: 1
 # Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis
 Navegue a través de las diferentes secciones de lecciones utilizando el menú en el lado izquierdo o la tabla de contenido a continuación.
 
+### Importante:
+Recuerde guardar una copia del cuaderno en su Drive
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/NotaColabNo1.png" vspace="10" width="400">
+</div>
+
+
 ## Primera sesión
 1. [Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis](https://githubtocolab.com/cafigueroao/peru-training-web-2024/blob/main/Notebooks/01_Dia1.ipynb).
 2. [Instalación, licencia y componentes de WEAP](https://www.youtube.com/watch?v=KConpCC7gG).
 3. [Conceptos básicos de una esquemática en WEAP - Elementos](https://www.youtube.com/watch?v=Ec_htpNjbI0).
 4. [Conceptos básicos del manejo de la data en WEAP - Nodos, Líneas](https://www.youtube.com/watch?v=nu1Zb_hs88o).
-
-### NOTAS:
-Recuerde guardar una copia del cuaderno en su Drive
-
-<img align="center" src="../images/NotaColabNo1.png"  vspace="10" width="600">
