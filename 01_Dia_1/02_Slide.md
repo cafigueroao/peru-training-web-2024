@@ -7,5 +7,5 @@ nav_order: 2
 
 # Prueba de control deslizante de imagen de antes/después
 
-<iframe src="./02_Slide.html" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+<iframe src="./02_Slidev1.html" width="600" height="400" frameborder="0" allowfullscreen></iframe>
 
