@@ -17,16 +17,5 @@ El desarrollo de la capacitación en WEAP, será entre la primera y segunda sema
 Los participantes deben asistir con una laptop o computador personal que cuente con sistema operativo Windows, el cual tenga instalado mínimamente Microsoft Office, y también una capacidad en memoria operativa RAM no inferior a los 4 GB. Se debe contar con conexión a internet para el manejo de funcionalidades en línea que WEAP actualmente utiliza en el desarrollo de la esquemática y manejo de fuentes de data en repositorios en línea para climatología, topografía y uso de suelo. 
 <span style="color:red">Para manejo de la dinámica de presentación y guía de pasos a seguir en las dos sesiones, recomienda contar con dos pantallas, una para ejecutar WEAP y otras aplicaciones Windows y la otra para mantener la ventana TEAMS compartida por el encargado de la capacitación de SEI.</span>
 
-## Martes 2 de julio
-
-| Hora | Duración | Contenido | Encargado |
-|:---:|:---:|:---:|:---:|
-| 09:00 | 1 hr | Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis | David Zamora SEI |
-| 10:00 | 0.5 hr | Instalación, licencia y componentes de WEAP | Gustavo Ayala SEI |
-| 10:30 | Break de 15 minutos | | |
-| 10:45 | 0.5 hr | Conceptos básicos de una esquemática en WEAP [Elementos] | Albeiro Figueroa SEI |
-| 11:15 | 0.75 hr | Conceptos básicos del manejo de la data en WEAP [Nodos, Líneas] | Gustavo Ayala SEI |
-
 **Notas:**
-
 * SEI: Sistema de Evaluación Ambiental
