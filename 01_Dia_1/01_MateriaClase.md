@@ -13,3 +13,8 @@ Navegue a través de las diferentes secciones de lecciones utilizando el menú e
 2. [Instalación, licencia y componentes de WEAP](https://www.youtube.com/watch?v=KConpCC7gG).
 3. [Conceptos básicos de una esquemática en WEAP - Elementos](https://www.youtube.com/watch?v=Ec_htpNjbI0).
 4. [Conceptos básicos del manejo de la data en WEAP - Nodos, Líneas](https://www.youtube.com/watch?v=nu1Zb_hs88o).
+
+### NOTAS:
+Recuerde guardar una copia del cuaderno en su Drive
+
+<img align="center" src="../images/NotaColabNo1.png"  vspace="10" width="600">
