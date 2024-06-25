@@ -44,12 +44,11 @@ nav_order: 2
   }
   
   .background-img {
-    background-image: url('../images/NotaColabNo1.png');
+    
   }
   
   .foreground-img {
-    background-image: url('../images/NotaColabNo1.png');
-    width: 50%;
+    
   }
   
   .slider {
@@ -134,8 +133,13 @@ nav_order: 2
 
 # Prueba de control deslizante de imagen de antes/después
 <div class='container'>
-  <div class='img background-img'></div>
-  <div class='img foreground-img'></div>
+  <div class='img background-img'>
+    <img src="../images/Figura_3.jpg" vspace="10" width="100">
+  </div>
+  <div class='img foreground-img'>
+    <img src="../images/Figura_4.jpg" vspace="10" width="100">
+  </div>
   <input type="range" min="1" max="100" value="50" class="slider" name='slider' id="slider">
   <div class='slider-button'></div>
 </div>
+
