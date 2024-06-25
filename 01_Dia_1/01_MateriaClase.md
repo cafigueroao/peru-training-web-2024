@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis
+title: Día 1
 parent: Martes 2 de julio
 nav_order: 1
 ---
