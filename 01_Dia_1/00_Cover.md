@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Martes 2 de julio"
+title: Martes 2 de julio
 permalink: /01_Dia_1
 has_children: True
 nav_order: 2
