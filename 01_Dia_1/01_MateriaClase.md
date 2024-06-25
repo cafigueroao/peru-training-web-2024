@@ -9,7 +9,7 @@ nav_order: 1
 Navegue a través de las diferentes secciones de lecciones utilizando el menú en el lado izquierdo o la tabla de contenido a continuación.
 
 ### Importante:
-Recuerde guardar una copia del cuaderno en su Drive
+Recuerde guardar una copia de sus cuadernos en Google Drive para asegurar que no se pierdan sus cambios y pueda acceder a ellos desde cualquier lugar.
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/NotaColabNo1.png" vspace="10" width="400">
