@@ -3,7 +3,7 @@ layout: page
 title: Martes 2 de julio
 permalink: /01_Dia_1
 has_children: True
-nav_order: 1
+nav_order: 2
 ---
 
 # Agenda de la sesión
@@ -39,7 +39,7 @@ Para guardar su libro de trabajo de Colab en Google Drive realice el siguiente p
 Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Google Colab esté siempre seguro, accesible y organizado para su posterior uso.
 
 <p align="center">
-  <img src="../images/NotaColabNo1.png" alt="Cómo guardar sus libros de trabajo de Colab en Google Drive">
+  <img src="../peru-training-web-2024/images/NotaColabNo1.png" alt="Cómo guardar sus libros de trabajo de Colab en Google Drive">
 </p>
 
 ## Primera sesión
