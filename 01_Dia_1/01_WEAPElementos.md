@@ -42,15 +42,15 @@ Este gestor presenta las siguientes funcionalidades:
 Esta función permite que cada capa se pueda ocultar o mostrar en el esquema. También permite ocultar o mostrar todos los mapas a la vez, haciendo clic derecho en la lista de capas de fondo y seleccionando "Ocultar o Mostrar todas las capas.
 </td>
     <td style="width: 50%; border: 0px;">
-      <a href="../images/01_Dia_1/WEAPElementos/Figura_3.gif" target="_blank">
-        <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Casilla de verificación" style="max-width: 100%;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_4.png" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_4.png" alt="Casilla de verificación" style="max-width: 100%;">
       </a>
     </td>
   </tr>
 </table>
 <div style="text-align:center">
-  <a href="../images/01_Dia_1/WEAPElementos/Figura_4.png" target="_blank">
-    <img src="../images/01_Dia_1/WEAPElementos/Figura_4.png" alt="Casilla de verificación" width="100%">
+  <a href="../images/01_Dia_1/WEAPElementos/Figura_3.gif" target="_blank">
+    <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Casilla de verificación" width="100%">
   </a>
 </div>
 <br>
