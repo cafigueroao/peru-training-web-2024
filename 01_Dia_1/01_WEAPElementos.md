@@ -103,3 +103,24 @@ También puede mover la barra de zoom (debajo del esquema detallado) o usar la r
     </td>
   </tr>
 </table>
+
+* Visor geográfico
+
+<!-- Visor geográfico (Tabla 6) -->
+<table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
+  <tr>
+    <td style="width: 60%; border: 0px;">
+      El visor geográfico (Main Schematic) es una representación visual interactiva que permite a los usuarios diseñar y gestionar los elementos del modelo y sirve para varias funciones clave como lo son:
+a) Creación de Modelos: Permite a los usuarios crear un esquema visual del sistema a analizar, permitiendo incluir elementos como ríos, embalses, áreas de demanda y otras infraestructuras relacionadas con el agua.
+b) Edición de Objetos: Los usuarios pueden agregar, mover y editar objetos en el esquema arrastrando y soltando símbolos desde la leyenda de WEAP. También pueden hacer clic derecho en los objetos para acceder a opciones adicionales como editar propiedades generales, datos específicos y ver resultados.
+c) Navegación y Manipulación: Incluye herramientas para desplazarse y hacer zoom en el esquema, facilitando la visualización y edición de diferentes partes del modelo. 
+d) Acceso Rápido a Análisis: Ofrece acceso directo a las variables de datos y tablas de resultados mediante clic derecho en cualquier elemento del esquema. Esto permite una edición y revisión rápida de los datos y resultados dentro del modelo
+    </td>
+    <td style="width: 40%; border: 0px;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_7.gif" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_7.png" alt="Visor geográfico" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
