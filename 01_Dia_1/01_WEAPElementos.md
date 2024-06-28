@@ -9,7 +9,7 @@ nav_order: 1
 La Vista Esquemática sirve como punto de partida para todas las actividades en WEAP. A continuación, se presentan los elementos que la componen junto con las funcionalidades que cada uno ofrece:
 
 *	Leyenda de WEAP
-
+<!-- Esquema WEAP (Tabla 1) -->
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
     <td style="width: 50%; border: 0px;">
@@ -29,7 +29,7 @@ La Vista Esquemática sirve como punto de partida para todas las actividades en 
 El gestor de capas SIG en WEAP es una herramienta fundamental para <b>visualizar</b>, datos geográficos dentro del contexto de la herramienta. Su principal función reside en la superposición de información espacial sobre el esquema WEAP, permitiendo al usuario representar gráficamente elementos geográficos como ríos, cuencas hidrográficas, límites políticos, infraestructura hidráulica y otros datos relevantes para el análisis del sistema hídrico. Esto facilita la comprensión espacial del modelo y la identificación de patrones o relaciones entre los componentes del sistema.
 
 Este gestor presenta las siguientes funcionalidades:
-
+<!-- Gestor de Capas SIG en WEAP (Tabla 2) -->
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
     <td style="width: 60%; border: 0px;">
@@ -45,18 +45,61 @@ Esta función permite que cada capa se pueda ocultar o mostrar en el esquema. Ta
 </table>
 <br>
 
+<!-- Gestor de Capas SIG en WEAP (Tabla 3) -->
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
-    <td style="width: 50%; border: 0px;">
+    <td style="width: 40%; border: 0px;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_5.gif" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_5.png" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
+      </a>
+    </td>
+    <td style="width: 60%; border: 0px;">
       <b>Agregar una capa vectorial o raster</b><br>
       Haga clic derecho en el gestor de capas SIG y seleccione "Agregar capa vectorial" o "Agregar capa ráster" según su interés. 
       Referente a las capas vectoriales, WEAP ofrece mucha flexibilidad para elegir colores de mapa, datos, estilos y etiquetas para la visualización, lo que puede ser muy útil para resaltar varias características de las capas.  También le permite eliminar, establecer etiquetas o reordenar los mapas de fondo.
 Tenga en cuenta que puede eliminarlos si lo desea, pero su esquema debe tener al menos una capa de fondo (ya sea una capa precargada o una propia). 
     </td>
-    <td style="width: 50%; border: 0px;">
-      <a href="../images/01_Dia_1/WEAPElementos/Figura_5.gif" target="_blank">
-        <img src="../images/01_Dia_1/WEAPElementos/Figura_5.png" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
+  </tr>
+</table>
+
+<b>Nota</b>: Todas las capas de fondo deben usar la misma proyección geográfica. Si agrega una capa y no aparece en el Esquema, puede deberse a que no usa la misma proyección que las capas de fondo existentes. Las capas globales precargadas de WEAP utilizan la proyección WGS84. Si desea agregar capas que utilizan una proyección diferente a WGS84, debe hacer lo siguiente (Tenga en cuenta que debe hacer esto ANTES de agregar cualquier objeto WEAP, como ríos o sitios de demanda, porque cuando los agregue, utilizarán la proyección vigente y desaparecerán cuando cambie a una proyección diferente):
+
+1. Agregue una de sus capas.
+2. Elimine todas las capas (como las capas precargadas) que estén en una proyección diferente.
+3. Vaya a "Establecer límites del área" y configure el límite usando su nueva capa.
+4. Si su capa es visible en el Esquema, entonces lo ha hecho correctamente.
+
+<!-- Gestor de Capas SIG en WEAP (Tabla 4) -->
+<table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
+  <tr>
+    <td style="width: 60%; border: 0px;">
+      <b>Agregar mapas base</b><br>
+        Haga clic derecho en el visor geográfico 
+        Seleccione la opción “Background Image Layer” y ahí la capa de su preferencia
+    </td>
+    <td style="width: 40%; border: 0px;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_6.gif" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_6.png" alt="Casilla de verificación" style="max-width: 100%;">
       </a>
+    </td>
+  </tr>
+</table>
+<br>
+
+*	Vista Esquema Detallado
+
+<!-- Gestor de Capas SIG en WEAP (Tabla 5) -->
+<table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
+  <tr>
+    <td style="width: 40%; border: 0px;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_7.png" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_7.png" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
+      </a>
+    </td>
+    <td style="width: 60%; border: 0px;">
+      Este pequeño esquema siempre mostrará su área completa brindando la posibilidad de acercar y alejar la visualización en el esquema principal. El área que se muestra actualmente en el esquema principal se indica mediante un cuadro rojo en el esquema detallado. 
+Haga clic y arrastre en el esquema detallado para cambiar lo que se muestra en el esquema principal. 
+También puede mover la barra de zoom (debajo del esquema detallado) o usar la rueda del mouse para acercar o alejar la imagen (con la tecla ctrl presionada y la rueda del mouse, el zoom será más rápido). 
     </td>
   </tr>
 </table>
