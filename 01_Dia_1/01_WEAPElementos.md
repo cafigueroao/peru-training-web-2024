@@ -13,16 +13,19 @@ La Vista Esquemática sirve como punto de partida para todas las actividades en 
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
     <td style="width: 50%; border: 0px;">
-      <img src="../images/01_Dia_1/WEAPElementos/Figura_1.png" alt="Esquema WEAP" style="max-width: 100%;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_1.png" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_1.png" alt="Esquema WEAP" style="max-width: 100%;">
+      </a>
     </td>
     <td style="width: 50%; border: 0px;">
       La Vista Esquemática es el punto de partida para todas las actividades en WEAP. Una característica central de WEAP es su interfaz gráfica de "arrastrar y soltar" fácil de usar, que se emplea para describir y visualizar las características físicas del sistema de oferta y demanda de agua. Este diseño espacial se denomina esquema. Puede crearlo, editarlo y visualizarlo en la Vista Esquemática. Se pueden agregar capas SIG para brindar mayor claridad e impacto.
     </td>
   </tr>
 </table>
-
 <div style="text-align:center">
-    <img src="../images/01_Dia_1/WEAPElementos/Figura_2.gif" alt="Esquema WEAP" width="90%">
+  <a href="../images/01_Dia_1/WEAPElementos/Figura_2.gif" target="_blank">
+    <img src="../images/01_Dia_1/WEAPElementos/Figura_2.gif" alt="Esquema WEAP" width="100%">
+  </a>
 </div>
 <br>
 
@@ -34,77 +37,36 @@ Este gestor presenta las siguientes funcionalidades:
 
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
-    <td style="width: 30%; border: 0px;">
-      Casilla de verificación <br>
+    <td style="width: 50%; border: 0px;">
+      <b>Casilla de verificación</b><br>
 Esta función permite que cada capa se pueda ocultar o mostrar en el esquema. También permite ocultar o mostrar todos los mapas a la vez, haciendo clic derecho en la lista de capas de fondo y seleccionando "Ocultar o Mostrar todas las capas.
 </td>
-    <td style="width: 70%; border: 0px;">
-      <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Esquema WEAP" style="max-width: 100%;">
+    <td style="width: 50%; border: 0px;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_3.gif" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Casilla de verificación" style="max-width: 100%;">
+      </a>
     </td>
   </tr>
 </table>
-
-* test
-
-<a href="#imagen-popup" class="popup-link">
-    <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Descripción de la imagen">
-</a>
-
-<div id="imagen-popup" class="popup">
-    <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Descripción de la imagen">
-    <a href="#" class="cerrar-popup">Cerrar</a>
+<div style="text-align:center">
+  <a href="../images/01_Dia_1/WEAPElementos/Figura_4.png" target="_blank">
+    <img src="../images/01_Dia_1/WEAPElementos/Figura_4.png" alt="Casilla de verificación" width="100%">
+  </a>
 </div>
+<br>
 
-<style>
-    /* Estilos para el pop-up */
-    .popup {
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        background: white;
-        padding: 20px;
-        border: 1px solid #ccc;
-        box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        display: none;
-        z-index: 9999;
-    }
-
-    .popup img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-    }
-
-    .popup-link {
-        display: block;
-    }
-
-    .cerrar-popup {
-        display: block;
-        text-align: center;
-        margin-top: 10px;
-        color: #555;
-    }
-</style>
-
-<script>
-    // JavaScript para mostrar y ocultar el pop-up al hacer clic
-    document.addEventListener('DOMContentLoaded', function() {
-        var popupLink = document.querySelector('.popup-link');
-        var popup = document.getElementById('imagen-popup');
-        var cerrarPopup = document.querySelector('.cerrar-popup');
-
-        popupLink.addEventListener('click', function(e) {
-            e.preventDefault();
-            popup.style.display = 'block';
-        });
-
-        cerrarPopup.addEventListener('click', function(e) {
-            e.preventDefault();
-            popup.style.display = 'none';
-        });
-    });
-</script>
-
+<table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
+  <tr>
+    <td style="width: 50%; border: 0px;">
+      <b>Agregar una capa vectorial o raster</b><br>
+      Haga clic derecho en el gestor de capas SIG y seleccione "Agregar capa vectorial" o "Agregar capa ráster" según su interés. 
+      Referente a las capas vectoriales, WEAP ofrece mucha flexibilidad para elegir colores de mapa, datos, estilos y etiquetas para la visualización, lo que puede ser muy útil para resaltar varias características de las capas.  También le permite eliminar, establecer etiquetas o reordenar los mapas de fondo.
+Tenga en cuenta que puede eliminarlos si lo desea, pero su esquema debe tener al menos una capa de fondo (ya sea una capa precargada o una propia). 
+  </td>
+    <td style="width: 50%; border: 0px;">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_5.gif" target="_blank">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_5.gif" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
