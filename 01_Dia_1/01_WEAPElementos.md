@@ -37,11 +37,11 @@ Este gestor presenta las siguientes funcionalidades:
 
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
-    <td style="width: 50%; border: 0px;">
+    <td style="width: 60%; border: 0px;">
       <b>Casilla de verificación</b><br>
 Esta función permite que cada capa se pueda ocultar o mostrar en el esquema. También permite ocultar o mostrar todos los mapas a la vez, haciendo clic derecho en la lista de capas de fondo y seleccionando "Ocultar o Mostrar todas las capas.
 </td>
-    <td style="width: 50%; border: 0px;">
+    <td style="width: 40%; border: 0px;">
       <a href="../images/01_Dia_1/WEAPElementos/Figura_4.png" target="_blank">
         <img src="../images/01_Dia_1/WEAPElementos/Figura_4.png" alt="Casilla de verificación" style="max-width: 100%;">
       </a>
