@@ -42,17 +42,12 @@ Este gestor presenta las siguientes funcionalidades:
 Esta función permite que cada capa se pueda ocultar o mostrar en el esquema. También permite ocultar o mostrar todos los mapas a la vez, haciendo clic derecho en la lista de capas de fondo y seleccionando "Ocultar o Mostrar todas las capas.
 </td>
     <td style="width: 40%; border: 0px;">
-      <a href="../images/01_Dia_1/WEAPElementos/Figura_4.png" target="_blank">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_3.gif" target="_blank">
         <img src="../images/01_Dia_1/WEAPElementos/Figura_4.png" alt="Casilla de verificación" style="max-width: 100%;">
       </a>
     </td>
   </tr>
 </table>
-<div style="text-align:center">
-  <a href="../images/01_Dia_1/WEAPElementos/Figura_3.gif" target="_blank">
-    <img src="../images/01_Dia_1/WEAPElementos/Figura_3.gif" alt="Casilla de verificación" width="100%">
-  </a>
-</div>
 <br>
 
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
@@ -62,7 +57,7 @@ Esta función permite que cada capa se pueda ocultar o mostrar en el esquema. Ta
       Haga clic derecho en el gestor de capas SIG y seleccione "Agregar capa vectorial" o "Agregar capa ráster" según su interés. 
       Referente a las capas vectoriales, WEAP ofrece mucha flexibilidad para elegir colores de mapa, datos, estilos y etiquetas para la visualización, lo que puede ser muy útil para resaltar varias características de las capas.  También le permite eliminar, establecer etiquetas o reordenar los mapas de fondo.
 Tenga en cuenta que puede eliminarlos si lo desea, pero su esquema debe tener al menos una capa de fondo (ya sea una capa precargada o una propia). 
-  </td>
+    </td>
     <td style="width: 50%; border: 0px;">
       <a href="../images/01_Dia_1/WEAPElementos/Figura_5.gif" target="_blank">
         <img src="../images/01_Dia_1/WEAPElementos/Figura_5.gif" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
