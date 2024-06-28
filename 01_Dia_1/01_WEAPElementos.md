@@ -13,7 +13,7 @@ La Vista Esquemática sirve como punto de partida para todas las actividades en 
 <table style="width: 100%; border: 0px; border-collapse: collapse; text-align:justify;">
   <tr>
     <td style="width: 50%; border: 0px;">
-      <a href="../images/01_Dia_1/WEAPElementos/Figura_1.png" target="_blank">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_2.gif" target="_blank">
         <img src="../images/01_Dia_1/WEAPElementos/Figura_1.png" alt="Esquema WEAP" style="max-width: 100%;">
       </a>
     </td>
@@ -22,11 +22,6 @@ La Vista Esquemática sirve como punto de partida para todas las actividades en 
     </td>
   </tr>
 </table>
-<div style="text-align:center">
-  <a href="../images/01_Dia_1/WEAPElementos/Figura_2.gif" target="_blank">
-    <img src="../images/01_Dia_1/WEAPElementos/Figura_2.gif" alt="Esquema WEAP" width="100%">
-  </a>
-</div>
 <br>
 
 * Gestor de Capas SIG en WEAP
@@ -60,7 +55,7 @@ Tenga en cuenta que puede eliminarlos si lo desea, pero su esquema debe tener al
     </td>
     <td style="width: 50%; border: 0px;">
       <a href="../images/01_Dia_1/WEAPElementos/Figura_5.gif" target="_blank">
-        <img src="../images/01_Dia_1/WEAPElementos/Figura_5.gif" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
+        <img src="../images/01_Dia_1/WEAPElementos/Figura_5.png" alt="Agregar una capa vectorial o raster" style="max-width: 100%;">
       </a>
     </td>
   </tr>
