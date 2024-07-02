@@ -45,5 +45,5 @@ Al seguir este sencillo procedimiento, asegurará que su valioso trabajo en Goog
 ## Primera sesión
 1. [Introducción a modelos en recursos hídricos y productos hidro climáticos de reanálisis](https://githubtocolab.com/cafigueroao/peru-training-web-2024/blob/main/Notebooks/01_Dia1.ipynb).
 2. [Instalación, licencia y componentes de WEAP](https://githubtocolab.com/cafigueroao/peru-training-web-2024/blob/main/Introduccion_a_WEAP.ipynb).
-3. [Conceptos básicos de una esquemática en WEAP - Elementos](/01_WEAPElementos).
+3. [Conceptos básicos de una esquemática en WEAP - Elementos](/01_Dia_1/01_WEAPElementos).
 4. [Conceptos básicos del manejo de la data en WEAP - Nodos, Líneas](https://www.youtube.com/watch?v=nu1Zb_hs88o target="_blank").
