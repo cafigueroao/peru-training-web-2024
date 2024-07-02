@@ -119,7 +119,7 @@ c) Navegación y Manipulación: Incluye herramientas para desplazarse y hacer zo
 d) Acceso Rápido a Análisis: Ofrece acceso directo a las variables de datos y tablas de resultados mediante clic derecho en cualquier elemento del esquema. Esto permite una edición y revisión rápida de los datos y resultados dentro del modelo
     </td>
     <td style="width: 40%; border: 0px;">
-      <a href="../images/01_Dia_1/WEAPElementos/Figura_8.gif" target="_blank">
+      <a href="../images/01_Dia_1/WEAPElementos/Figura_8.png" target="_blank">
         <img src="../images/01_Dia_1/WEAPElementos/Figura_8.png" alt="Visor geográfico" style="max-width: 100%;">
       </a>
     </td>
