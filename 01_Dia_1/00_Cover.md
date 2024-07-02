@@ -30,7 +30,7 @@ Beneficios de guardar sus libros de trabajo de Colab en Google Drive:
 4. Prevención de pérdidas: Evite la pérdida accidental de su trabajo debido a fallas técnicas o cierres inesperados de la sesión.
 5. Organización eficiente: Mantenga sus libros de trabajo organizados en carpetas temáticas dentro de su Google Drive.
 
-Para guardar su libro de trabajo de Colab en Google Drive realice el siguiente procedimientp:
+Para guardar su libro de trabajo de Colab en Google Drive realice el siguiente procedimiento:
 
 1. Abra su libro de trabajo de Colab.
 2. Haga clic en el menú "Archivo" (File) en la parte superior izquierda de la pantalla.
